@@ -1,0 +1,7 @@
+li a {
+    color: darkred;
+}
+
+body {
+    background: cadetblue url("images/background.png") no-repeat;
+}
